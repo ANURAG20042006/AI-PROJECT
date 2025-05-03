@@ -21,13 +21,4 @@ This app uses:
 | Heart Disease   | Random Forest        | UCI Heart Disease Dataset                      |
 | Breast Cancer   | Logistic Regression  | Sklearn's built-in Breast Cancer dataset       |
 
----
-
-## 📸 Screenshots
-
-*(Add your app screenshots here for visual appeal)*
-
----
-
-## 📁 Project Structure
 
