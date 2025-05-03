@@ -1,3 +1,0 @@
-Things to Add in Future :
-A text feild where we enter our symptoms will pridict the deasease and suggeast common mediciene and home remedy byh our mom.
-Locate nearst medical shops and path lab and doctors.
